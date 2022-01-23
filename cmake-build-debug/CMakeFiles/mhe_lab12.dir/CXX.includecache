@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lenovo/Desktop/mhe-lab12/rosenbrock.cpp
+iostream
+-
+functional
+-
+fstream
+-
+sstream
+-
+vector
+-
+random
+-
+algorithm
+-
+numeric
+-
+chrono
+-
+set
+-
+list
+-
+map
+-
+

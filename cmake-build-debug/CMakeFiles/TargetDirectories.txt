@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/mhe-lab12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/mhe-lab12/cmake-build-debug/CMakeFiles/mhe_lab12.dir
+C:/Users/Lenovo/Desktop/mhe-lab12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
